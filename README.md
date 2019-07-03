@@ -1,4 +1,6 @@
 # OpenWrt packages feed
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjs3725831%2Fpackages.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjs3725831%2Fpackages?ref=badge_shield)
+
 
 ## Description
 
@@ -20,7 +22,9 @@ This feed is enabled by default. To install all its package definitions, run:
 
 See [LICENSE](LICENSE) file.
  
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjs3725831%2Fpackages.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjs3725831%2Fpackages?ref=badge_large)
+
 ## Package Guidelines
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
